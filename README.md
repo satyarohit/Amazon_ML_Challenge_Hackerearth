@@ -9,3 +9,4 @@ Embrace the challenge and stand a chance to become a part of this team!
 
 This challenge was basically classification of customers into different classes based on their activity on the website.
 So that recommendation can be provided to the customer.
+Achieved Test accuracy of 96.974 %
