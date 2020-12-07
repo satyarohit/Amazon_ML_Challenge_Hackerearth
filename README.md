@@ -1,4 +1,4 @@
-# Amazon_ML_Challenge_Hackerearth
+# Amazon_ML_Challenge_Hackerearth(Test accuracy of 96.974 %)
 
 
 Machine Learning, Big Data, and related quantitative sciences have been strategic to Amazon from the early years. Amazon has been a pioneer in areas such as recommendation engines, e-commerce fraud detection and large-scale optimization of fulfillment center operations. As Amazon has rapidly grown and diversified, the opportunity for applying machine learning has exploded. We have a very broad collection of practical problems where machine learning systems can dramatically improve the customer experience, reduce cost, and drive speed and automation. These include automated pricing and demand forecasting for hundreds of millions of products, predicting ad click probabilities, ranking product search results, matching products from multiple sources, classifying products into large taxonomies, information extraction and sentiment analysis for product reviews, voice recognition, natural language understanding, question answering and conversational systems.
@@ -9,4 +9,4 @@ Embrace the challenge and stand a chance to become a part of this team!
 
 This challenge was basically classification of customers into different classes based on their activity on the website.
 So that recommendation can be provided to the customer.
-Achieved Test accuracy of 96.974 %
+
